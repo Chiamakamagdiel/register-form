@@ -2,12 +2,12 @@
 main{
     display: flex;
     justify-content: center;
-    background-color: antiquewhite;
+    background-color: rgb(248, 210, 140);
     margin: 6rem 5rem ;
     padding: 4rem 2rem;
 }
 .form > h2{
-    color: orange;
+    color: navy;
     font-size: xx-large;
 
 }
@@ -17,4 +17,20 @@ label{
 }
 input{
     margin-bottom: 10px;
+}
+.form > button{
+    border-radius: 5em;
+    padding: 3%;
+    color: navy;
+    background-color: antiquewhite;
+    width: 3cm;
+    
+}
+.form{
+   color: navy;
+}
+button:hover{
+    color: red;
+    background-color:lightblue;
+    transition: 1s;
 }
