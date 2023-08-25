@@ -22,8 +22,9 @@ input{
     border-style: none;
     border-radius: 8px;
     padding:10px;
-    width: 10rem;
+    width: 12rem;
     background-color:antiquewhite ;
+    twe
 }
 input:invalid{
     border: 1px solid red;
@@ -50,7 +51,7 @@ button:hover{
     width: 7cm;
     height: 1.5cm;
     font-size: 1.2em;
-    text-align: start;
+    text-align: middle;
     background-color: rgb(243, 175, 93) ;
     border-style: none;
     border-radius: 8px;
